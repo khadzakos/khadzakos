@@ -3,10 +3,10 @@
 Career:
 06.2025-now - Yandex. [Yandex KIT](https://kit.yandex.ru/) - Backend Infrastructure developer
 
-Education:
+Education:  
 Higher School Of Economics, Faculty of Computer Science, Software Engeneering '27
 
-Practices and Schools:
+Practices and Schools:  
 HSE & SLAI Research Practice, Shenzhen, China (06.2026-08.2026) - research practice in AI field
 
 <!--
