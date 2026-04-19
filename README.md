@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Career:
-06.2025-now - Yandex. [Yandex KIT](https://kit.yandex.ru/) - Backend Infrastructure developer
+Career:  
+Yandex. [Yandex KIT](https://kit.yandex.ru/) - Backend Infrastructure developer (06.2025-now)
 
 Education:  
 Higher School Of Economics, Faculty of Computer Science, Software Engeneering '27
