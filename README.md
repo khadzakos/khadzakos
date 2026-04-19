@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Career:
+06.2025-now - Yandex. [Yandex KIT](https://kit.yandex.ru/) - Backend Infrastructure developer
+
+Education:
+Higher School Of Economics, Faculty of Computer Science, Software Engeneering '27
+
+Practices and Schools:
+HSE & SLAI Research Practice, Shenzhen, China (06.2026-08.2026) - research practice in AI field
+
 <!--
 **khadzakos/khadzakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
